@@ -10,6 +10,6 @@ ML-2021-Project
 ## Utils
 
 All necessary implementations of NNs architectures, losses can be found in the folder **WGAN**.
-Jupyter notebooks (`*.ipynb`) contain all examples and experiments.
+Jupyter notebooks (`*.ipynb`) contain all examples and experiments. All code works in [Google Colab](https://colab.research.google.com/) 
 
 Theoretical part and link to video presentation can be found in the project report (`*.pdf`).
