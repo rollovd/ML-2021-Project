@@ -10,3 +10,6 @@ ML-2021-Project
 ## Utils
 
 All necessary implementations of NNs architectures, losses can be found in the folder **WGAN**.
+Jupyter notebooks (`*.ipynb`) contain all examples and experiments.
+
+Theoretical part and link to video presentation can be found in the project report (`*.pdf`).
