@@ -9,4 +9,4 @@ ML-2021-Project
 
 ## Utils
 
-All necessary implementations of NNs architectures, losses can be found in the folder *WGAN*.
+All necessary implementations of NNs architectures, losses can be found in the folder **WGAN**.
