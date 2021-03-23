@@ -12,4 +12,4 @@ ML-2021-Project
 All necessary implementations of NNs architectures, losses can be found in the folder **WGAN**.
 Jupyter notebooks (`*.ipynb`) contain all examples and experiments. All code works in [Google Colab](https://colab.research.google.com/).
 
-Theoretical part and link to video presentation can be found in the [ML_Final_Project_Report.pdf](project report).
+Theoretical part and link to video presentation can be found in the [project report](https://github.com/rollovd/ML-2021-Project/blob/master/ML_Final_Project_Report.pdf).
