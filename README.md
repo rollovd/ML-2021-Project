@@ -7,4 +7,6 @@ ML-2021-Project
 2. Nikolay Goncharov (Nikolay.Goncharov@skoltech.ru)
 3. Svetlana Gabdullina (Svetlana.Gabdullina@skoltech.ru)
 
+## Utils
 
+All necessary implementations of NNs architectures, losses can be found in the folder *WGAN*.
