@@ -16,6 +16,6 @@ Theoretical part can be found in the [project report](https://github.com/rollovd
 
 Presentation can be found [here](https://github.com/rollovd/ML-2021-Project/blob/master/ML_Final_Project_Presentation.pdf).
 
-Link to video can be found [here](https://youtu.be/32JWttjYL5g).
+Link to the video can be found [here](https://youtu.be/32JWttjYL5g).
 
 
